@@ -1,2 +1,2 @@
-# urmia-traffic-ai
-Ai based traffic optimization for Urmia city
+# Urmia Traffic AI
+یک اپلیکیشن هوش مصنوعی برای تنظیم چراغ‌های راهنمایی بر اساس حجم ترافیک در شهر ارومیه. ساخته شده با Streamlit.
